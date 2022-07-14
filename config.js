@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288277562022
+   * Create By Fadly.
+   * Contact Me on this bot
    * Follow https://github.com/RzLModz
 */
 
@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288277562022']
-global.premium = ['6288277562022']
+global.owner = ['6285155226378']
+global.premium = ['6285155226378']
 global.packname = 'Botz Multi'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'database'
